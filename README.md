@@ -4,5 +4,5 @@
 ### [ML모델 Tf-idf&Word2Vec](https://github.com/wpfkcm33/News_category/blob/main/News_catagory_ML.ipynb)  
   -example_text에 원하는 제목을 넣어 결과를 볼 수 있습니다.   
 ### [DL 모델 Klue-roberta-base](https://github.com/wpfkcm33/News_category/blob/main/news_category_DL.ipynb)   
-    -변환결과가 [news_data_category.csv](https://github.com/wpfkcm33/News_category/blob/main/news_data_category.csv)에 저장됩니다.   
+  -변환결과가 [news_data_category.csv](https://github.com/wpfkcm33/News_category/blob/main/news_data_category.csv)에 저장됩니다.   
 ### [DL 모델 huggingface](https://huggingface.co/Doowon96/roberta-base-finetuned-ynat)  
