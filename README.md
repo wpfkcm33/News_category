@@ -12,5 +12,5 @@
   -Inference API 에 원하는 제목을 넣어 결과를 볼 수 있습니다.   
 
 
-news_data.csv == 원본 뉴스 데이터
+news_data.csv == 원본 뉴스 데이터  
 news_data_ML == 지정된 카테고리 5개만 추출한 뉴스 데이터
