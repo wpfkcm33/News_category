@@ -10,3 +10,7 @@
       -틀리게 예측된 뉴스는 [incorrect_predictions.csv](https://github.com/wpfkcm33/News_category/blob/main/incorrect_predictions.csv)에 저장됩니다.   
 ### [DL 모델 huggingface](https://huggingface.co/Doowon96/roberta-base-finetuned-ynat)   
   -Inference API 에 원하는 제목을 넣어 결과를 볼 수 있습니다.   
+
+
+news_data.csv == 원본 뉴스 데이터
+news_data_ML == 지정된 카테고리 5개만 추출한 뉴스 데이터
